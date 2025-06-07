@@ -89,10 +89,11 @@ const Header = () => {
               href="/Darshan%20Jarale%20Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-primary hover:text-primary/80 transition-colors py-2"
+              className="text-primary hover:text-primary/80 transition-colors"
             >
-              Resume
+            Resume
             </a>
+
           </nav>
         </div>
       )}
