@@ -86,7 +86,7 @@ const Header = () => {
               </a>
             ))}
             <a
-              href="public/Darshan Jarale Resume.pdf"
+              href="/Darshan%20Jarale%20Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:text-primary/80 transition-colors"
